@@ -10,3 +10,4 @@ Requests:
 Do not open main.exe.I promise it has been broken.Run main.py to start. 
 author：Kong Zikun
 Your Suggestions and comments are welcome，Email：kongzikun@outlook.com
+       New UI design
